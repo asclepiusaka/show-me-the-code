@@ -1,0 +1,62 @@
+6250 Computer Networks Project
+
+The project is a major portion of this class. Projects will be conducted in teams of 5 students. Projects are expected to have a research flavor and explore specific problems or ideas in Computer Networks.
+
+A list of possible project topics will be provided. Teams may pick from this list (on a first-come first-served basis) or may choose a different topic -- subject to instructor approval. Projects can involve system or protocol design and/or implementation and/or evaluation of an idea through simulation or measurement. A final report and a short in-class presentation and demo will be required from each project team.
+
+The project will require you to do your own research into the literature as well as substantial reading and learning on your own. Projects will typically require buidling a system or a substantial simulation of one. The instructor and the TA are available throughout the process to help guide you and answer questions.
+
+What you will have to do
+
+In groups of 5 you will
+
+Pick a particular project problem to work on -- A suggested list of topics is included below. Note that these are broadly defined topics, you will need to develop a specific question to address within the topic.
+Write a short 3-page "proposal" describing the scope of your project, expected outcome, plan of action and division of labor among team members. A bibliography of related literature should be included. You should make extensive use of the GT library facilities, including the IEEE and ACM digital libraries. You should also search from material available on the web if applicable.
+A final project report describing your efforts, providing an evaluation of your work. The final report may be accompanied by a demo if approriate.
+Give a 8-10 minute presentation in class summarizing your project.
+Fill out a peer evaluation form assessing your performance and that of your team mates.
+Project Deliverables and Milestones
+
+Milestone 1: Team and Topic Selection. Provide a one-page description of your problem scope, which topic it belongs to and why you think it is interesting. This description should have the name of team members. --- Due January 31. 
+One or more representative of each team should talk to me briefly about selection and team before this deadline either during office hours, or at a mutually agreeable time. 
+The main purpose of this milestone is to establish the teaming and have a general discussion about the topic. You may change the topic or scope of your work after this deadline but I would like you to commit to the teaming you arrange at this point.
+Milestone 2: Project proposal as described above. -- Due February 21. 
+At this point you should have a clear idea of your project scope and have thought through your approach to the project.
+Milestone 3: Progress Report: This is a precursor to the final report and should describe progress to date including This should make specific reference to a (possibly revised) literature list. -- Due April 4. 
+Here I would like to see that you are making good progress towards completing the project. Any serious problems that can lead to change of scope should be identified at this point and discussed with me.
+Milestone 4: Make a 10 minute presentation in-class. during the last 3 lectures of the semester. Your team will have to select only one member to give the presentation. All presentations need to be in powerpoint or pdf and will be due April 17 by 5pm. You will not be allowed to change your slides after this date. I will decide on the ordering of the presentations (either randomly or based on some useful topic progression).
+Milestone 5: Final Report: You should strive to make this look like a research paper that describes the problem you addressed, describes the approach and the work you have done and reaches conclusions regarding your problem. -- Due by May 1 11:59pm. The peer evaluation form here .
+All submissions should be done on t-square.
+Grading
+
+Milestone 1: 2% 
+Completion Grade: based on timeliness and meeting with the Professor.
+Milestone 2: 3% 
+Completion Grade: based on timeliness.
+Milestone 3: 5% 
+Completion Grade: based on timeliness.
+Milestone 4: 12% 
+Grade will be based on adherence to time limit of presentation, quality of material presented (how much new material we learn from your presentation), clarity of presentation objectives and quality of delivery. Automatic two-point reduction for not adhering to time limit.
+Milestone 5: 18% 
+Grade will be based on timeliness, signficance of your effort and results, level of evaluation and quality of writing and presentation.
+The project can be in one of three flavors:
+
+Design, implementation and evaluation of a new networked application or protocol.
+Significant measurement or data set analysis
+Reproducing results in existing literature
+Examples of projects:
+
+Characterization off adaptive video streaming on various TCP flavors
+Video streaming over multipath TCP
+A fast transport protocol (QUIC or SPDY)
+Opportunistic network routing
+Mobile Cloud Computing: Mobile-Cloud Ineractions
+Network neutrality inference -- detection of violations
+The state of IPv6 deployment and effect of transition strategies
+Cloud-based middlebox
+Applications behavior over SDN -- does it matter?
+Manage your own DNS domain
+Vehicular Network communication protocols
+Controller-based (centralized) network resource management
+A transport protocol for intermittently connected networks
+An application-aware transport protocol
